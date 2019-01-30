@@ -10,6 +10,6 @@ Interface para um aplicativo de noticias
 ### App Netflix (AppNetflix)
 Aplicativo com a interface da Netflix.
 
-Técnicas utilizadas: Guidelines para alinhamento responsivo da interface, sendo assim independemente do dispostivo a interface do aplicativo se mantem alinhada.
+Técnicas utilizadas: Guidelines para alinhamento responsivo da interface, sendo assim independente do dispostivo a interface do aplicativo se mantem alinhada.
 
 ![alt text](https://i.imgur.com/CVHyWhv.jpg)
