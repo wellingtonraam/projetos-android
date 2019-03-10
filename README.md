@@ -7,6 +7,8 @@ Repositório com projetos desenvolvidos para plataforma Android.
 ### App de Notícias (AppNoticias)
 Interface para um aplicativo de noticias
 
+Tecnologias utilizadas: ConstraintLayout, Button, ImageView, EditText.
+
 ![alt text](https://i.imgur.com/7rlek7t.png)
 
 ### App Netflix (AppNetflix)
