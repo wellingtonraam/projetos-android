@@ -21,6 +21,6 @@ Tecnologias utilizadas: Guidelines para alinhamento responsivo da interface, sen
 ### App Álcool ou Gasolina? (AppAlcoolOuGasolina)
 Aplicativo com o objetivo de calcular qual tipo de abastecimento é mais economico para o usuário.
 
-Tecnologias utilizadas: ConstraintLayout, Button, ImageView, EditText.
+Tecnologias utilizadas: ConstraintLayout, Button, ImageView, EditText..
 
 ![alt text](https://i.imgur.com/HcTNhhc.jpg)
