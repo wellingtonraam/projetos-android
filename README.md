@@ -5,7 +5,7 @@ Repositório com projetos desenvolvidos para plataforma Android.
 ## Protótipos 
 
 ### App de Notícias (AppNoticias)
-Interface para um aplicativo de noticias
+Interface para um aplicativo de noticias.
 
 Tecnologias utilizadas: ConstraintLayout, Button, ImageView, EditText.
 
@@ -21,6 +21,6 @@ Tecnologias utilizadas: Guidelines para alinhamento responsivo da interface, sen
 ### App Álcool ou Gasolina? (AppAlcoolOuGasolina)
 Aplicativo com o objetivo de calcular qual tipo de abastecimento é mais economico para o usuário.
 
-Tecnologias utilizadas: ConstraintLayout, Button, ImageView, EditText..
+Tecnologias utilizadas: ConstraintLayout, Button, ImageView, EditText.
 
 ![alt text](https://i.imgur.com/HcTNhhc.jpg)
