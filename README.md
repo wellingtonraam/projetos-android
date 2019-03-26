@@ -5,7 +5,7 @@ Repositório com projetos desenvolvidos para plataforma Android.
 ## Protótipos 
 
 ### App de Notícias (AppNoticias)
-Interface para um aplicativo de noticias
+Interface para um aplicativo de noticias.
 
 Tecnologias utilizadas: ConstraintLayout, Button, ImageView, EditText.
 
