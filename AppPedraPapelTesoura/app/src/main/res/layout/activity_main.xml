@@ -25,7 +25,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/tvScore"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="34dp"
@@ -44,7 +44,7 @@
     <TextView
         android:id="@+id/textView3"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="17dp"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="15dp"
@@ -56,10 +56,10 @@
         android:text="Você"
         android:textColor="@android:color/background_light"
         android:textStyle="bold"
-        app:layout_constraintEnd_toEndOf="@+id/textView2"
+        app:layout_constraintEnd_toEndOf="@+id/tvScore"
         app:layout_constraintEnd_toStartOf="@+id/textView5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/textView2" />
+        app:layout_constraintTop_toTopOf="@+id/tvScore" />
 
     <TextView
         android:id="@+id/textView5"
@@ -74,13 +74,18 @@
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/textView3"
-        app:layout_constraintTop_toTopOf="@+id/textView2" />
+        app:layout_constraintTop_toTopOf="@+id/tvScore" />
 
     <TextView
-        android:id="@+id/textView6"
+        android:id="@+id/tvMain"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="30dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:gravity="center"
         android:text="Vamos começar!"
         android:textColor="@android:color/background_light"
         android:textSize="24sp"
@@ -89,42 +94,48 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+        app:layout_constraintTop_toBottomOf="@+id/tvScore" />
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/imgPaper"
         android:layout_width="79dp"
         android:layout_height="79dp"
         android:layout_marginTop="24dp"
+        android:background="@drawable/border_option"
         android:cropToPadding="false"
+        android:onClick="paper"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView6"
+        app:layout_constraintTop_toBottomOf="@+id/tvMain"
         app:srcCompat="@drawable/papel" />
 
     <ImageView
-        android:id="@+id/imageView3"
+        android:id="@+id/imgRock"
         android:layout_width="79dp"
         android:layout_height="79dp"
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
+        android:background="@drawable/border_option"
         android:cropToPadding="false"
-        app:layout_constraintEnd_toStartOf="@+id/imageView"
+        android:onClick="rock"
+        app:layout_constraintEnd_toStartOf="@+id/imgPaper"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/imageView"
+        app:layout_constraintTop_toTopOf="@+id/imgPaper"
         app:srcCompat="@drawable/pedra" />
 
     <ImageView
-        android:id="@+id/imageView2"
+        android:id="@+id/imgScissor"
         android:layout_width="79dp"
         android:layout_height="79dp"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
+        android:background="@drawable/border_option"
+        android:onClick="scissor"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/imageView"
-        app:layout_constraintTop_toTopOf="@+id/imageView"
+        app:layout_constraintStart_toEndOf="@+id/imgPaper"
+        app:layout_constraintTop_toTopOf="@+id/imgPaper"
         app:srcCompat="@drawable/tesoura" />
 
     <TextView
@@ -139,6 +150,6 @@
         app:fontFamily="sans-serif-condensed-light"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+        app:layout_constraintTop_toBottomOf="@+id/imgPaper" />
 
 </android.support.constraint.ConstraintLayout>
