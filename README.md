@@ -2,6 +2,7 @@
 
 Repositório com projetos desenvolvidos para plataforma Android.
 
+
 ## Protótipos 
 
 ### App Netflix (AppNetflix)
