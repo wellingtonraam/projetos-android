@@ -1,6 +1,6 @@
 # projetos-android
 
-Repositório com projetos desenvolvidos para plataforma Android.
+Repositório com projetos desenvolvidos para plataforma Android
 
 
 ## Protótipos 
