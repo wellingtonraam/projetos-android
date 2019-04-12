@@ -5,7 +5,7 @@ Repositório com projetos desenvolvidos para plataforma Android.
 
 ## Protótipos 
 
-### App Netflix (AppNetflix
+### App Netflix (AppNetflix)
 Aplicativo com a interface da Netflix.
 
 Tecnologias utilizadas: Guidelines para alinhamento responsivo da interface, sendo assim independente do dispostivo a interface do aplicativo se mantem alinhada.
