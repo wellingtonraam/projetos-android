@@ -50,22 +50,24 @@ public class MainActivity extends AppCompatActivity {
         recyclerView.setAdapter(adapterFilmes);
 
         //Eventos de Click
-        recyclerView.addOnItemTouchListener(new RecyclerItemClickListener(getApplicationContext(), recyclerView,
-
-                new RecyclerItemClickListener.OnItemClickListener() {
+        recyclerView.addOnItemTouchListener(new RecyclerItemClickListener(getApplicationContext(), recyclerView, new RecyclerItemClickListener.OnItemClickListener() {
             @Override
             public void onItemClick(View view, int position) {
-                Toast.makeText(getApplicationContext(), getTitle() + " Pressionado!", Toast.LENGTH_SHORT);
+            Filme filme = listFilmes.get(position);
+
+                Toast.makeText(getApplicationContext(), filme.getTitulo()  + " Pressionado!", Toast.LENGTH_SHORT).show();
             }
 
             @Override
             public void onLongItemClick(View view, int position) {
+                Toast.makeText(getApplicationContext(),  " Pressionado!", Toast.LENGTH_SHORT);
 
             }
 
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
 
+                Toast.makeText(getApplicationContext(),  " Pressionado!", Toast.LENGTH_SHORT);
             }
         }));
 
@@ -74,21 +76,22 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+
     public void setListFilmes() {
-    Filme filme = new Filme("A corrida mortal", "Paramount","1000 views", R.drawable.img1);
-    listFilmes.add(filme);
-    filme = new Filme("O Aprendiz", "Rede Band","1000 views", R.drawable.img2);
-    listFilmes.add(filme);
-    filme = new Filme("O Magnata", "MTV Channel","1000 views", R.drawable.img3);
-    listFilmes.add(filme);
-    filme = new Filme("A última jornada", "Discovery Channel","1000 views", R.drawable.img4);
-    listFilmes.add(filme);
-    filme = new Filme("Bom pra cachorro!", "Hanna Barbera","1000 views", R.drawable.img5 );
-    listFilmes.add(filme);
-    filme = new Filme("A Lista Negra", "Paramount","1000 views", R.drawable.img6);
-    listFilmes.add(filme);
-    filme = new Filme("Os perigosos", "Marvel", "1000 views", R.drawable.img7);
-    listFilmes.add(filme);
+        Filme filme = new Filme("Dr.Strangelove", "Paramount","1000 views", R.drawable.img1);
+        listFilmes.add(filme);
+        filme = new Filme("Grease", "Paramount","1000 views", R.drawable.img2);
+        listFilmes.add(filme);
+        filme = new Filme("Blade Runner 2049", "Warner Bros","1000 views", R.drawable.img3);
+        listFilmes.add(filme);
+        filme = new Filme("Fight Club", "Discovery Channel","1000 views", R.drawable.img4);
+        listFilmes.add(filme);
+        filme = new Filme("Star Wars", "Lucas Arts","1000 views", R.drawable.img5 );
+        listFilmes.add(filme);
+        filme = new Filme("Solo", "Lucas Arts","1000 views", R.drawable.img6);
+        listFilmes.add(filme);
+        filme = new Filme("Ghostbusters", "Columbia Pictures", "1000 views", R.drawable.img7);
+        listFilmes.add(filme);
 
     };
 }
