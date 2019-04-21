@@ -14,7 +14,7 @@ Tecnologias utilizadas: Guidelines para alinhamento responsivo da interface, sen
 
 
 ### App de Notícias (AppNoticias)
-Interface para um aplicativo de noticias
+Interface para um aplicativo de noticias.
 
 
 Tecnologias utilizadas: ConstraintLayout, Button, ImageView, EditText.
