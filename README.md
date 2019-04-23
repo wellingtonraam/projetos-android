@@ -37,5 +37,16 @@ Tecnologias utilizadas: ConstraintLayout, Button, ImageView, EditText.
 
 ![alt text](https://i.imgur.com/HcTNhhc.jpg)
 
+## Componentes
 
+### AppRecyclerView 
 
+RecyclerView é uma “evolução” da ListView e da GridView, componentes presentes desde da primeira versão do Android para se fazer listas e grades de conteúdo.
+
+![alt text](https://i.imgur.com/GSq94Ec.gif)
+
+### AppCardView 
+
+Um CardView é um ViewGroup, com ele podemos de maneira fácil  mostrar informações dentro de cartões que tenham uma aparência consistente em toda a plataforma 
+
+![alt text](https://i.imgur.com/zwdDBds.gif)
