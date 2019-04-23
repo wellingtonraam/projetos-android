@@ -15,9 +15,12 @@ import java.util.List;
 
 public class AdapterPostagens extends RecyclerView.Adapter<AdapterPostagens.MyViewHolder> {
 
+
     private List<Postagens> postagensList;
 
+
     public AdapterPostagens(List<Postagens> lista) {
+
         this.postagensList = lista;
     }
 
@@ -25,7 +28,6 @@ public class AdapterPostagens extends RecyclerView.Adapter<AdapterPostagens.MyVi
     @NonNull
     @Override
     public MyViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
-
         View itemLista = LayoutInflater.from(parent.getContext()).inflate(R.layout.adapter_postagens, parent, false);
         return new MyViewHolder(itemLista);
     }
@@ -35,7 +37,6 @@ public class AdapterPostagens extends RecyclerView.Adapter<AdapterPostagens.MyVi
         Postagens postagens = postagensList.get(position);
         holder.tvTitulo.setText(postagens.getTitulo());
         holder.ivThumbnail.setImageResource(postagens.getThumbnail());
-
     }
 
     @Override
@@ -43,20 +44,14 @@ public class AdapterPostagens extends RecyclerView.Adapter<AdapterPostagens.MyVi
         return postagensList.size();
     }
 
-
-
-    public class MyViewHolder extends RecyclerView.ViewHolder{
-
-
+    public class MyViewHolder extends RecyclerView.ViewHolder {
         TextView tvTitulo;
         ImageView ivThumbnail;
 
-
         public MyViewHolder(View itemView) {
             super(itemView);
-            tvTitulo = itemView.findViewById(R.id.tvTitulo);
-            ivThumbnail = itemView.findViewById(R.id.ivThumbnail);
+            tvTitulo = itemView.findViewById(R.id.titulo);
+            ivThumbnail = itemView.findViewById(R.id.thumbnail);
         }
-
     }
 }

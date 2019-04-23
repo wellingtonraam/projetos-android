@@ -2,29 +2,28 @@ package com.example.appcardview.model;
 
 public class Postagens {
 
+    int Thumbnail;
+    String Titulo;
 
-    private String titulo;
-    private int thumbnail;
 
-    public Postagens(String titulo, int thumbnail) {
-        this.titulo = titulo;
-        this.thumbnail = thumbnail;
+    public Postagens(int Thumbnail, String Titulo) {
+        this.Thumbnail = Thumbnail;
+        this.Titulo = Titulo;
     }
-
-    public String getTitulo() {
-        return titulo;
-    }
-
-    public void setTitulo(String titulo) {
-        this.titulo = titulo;
-    }
-
 
     public int getThumbnail() {
-        return thumbnail;
+        return Thumbnail;
     }
 
     public void setThumbnail(int thumbnail) {
-        this.thumbnail = thumbnail;
+        this.Thumbnail = thumbnail;
+    }
+
+    public String getTitulo() {
+        return Titulo;
+    }
+
+    public void setTitulo(String titulo) {
+        this.Titulo = titulo;
     }
 }
