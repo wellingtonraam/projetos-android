@@ -11,6 +11,7 @@ Aplicativo com a interface da Netflix.
 Tecnologias utilizadas: Guidelines para alinhamento responsivo da interface, sendo assim independente do dispostivo a interface do aplicativo se mantem alinhada.
 
 ![alt text](https://i.imgur.com/bTq5YPG.jpg)
+
 <a href="https://i.imgur.com/CVHyWhv.jpg"> (Clique aqui para ampliar)</a>
 
 ### App de Notícias (AppNoticias)
@@ -20,6 +21,7 @@ Interface para um aplicativo de noticias
 Tecnologias utilizadas: ConstraintLayout, Button, ImageView, EditText.
 
 ![alt text](https://i.imgur.com/cSzU1q7.png)
+
 <a href="https://i.imgur.com/7rlek7t.png"> (Clique aqui para ampliar)</a>
 
 ## Funcionais
@@ -30,7 +32,8 @@ Aplicativo do popular jogo conhecido como "Pedra, Papel, Tesoura!" ou "Jokempô"
 Tecnologias utilizadas: ConstraintLayout, Bordas em xml, ImageView, TextView.
 
 ![alt text](https://i.imgur.com/KjGhiWl.png)
- <a href="https://i.imgur.com/klbuKPO.png"> (Clique aqui para ampliar)</a>
+
+<a href="https://i.imgur.com/klbuKPO.png"> (Clique aqui para ampliar)</a>
  
 ### App Álcool ou Gasolina? (AppAlcoolOuGasolina)
 Aplicativo com o objetivo de calcular qual tipo de abastecimento é mais economico para o usuário.
@@ -38,6 +41,7 @@ Aplicativo com o objetivo de calcular qual tipo de abastecimento é mais economi
 Tecnologias utilizadas: ConstraintLayout, Button, ImageView, EditText.
 
 ![alt text](https://i.imgur.com/vFRc7PI.png)
+
 <a href="https://i.imgur.com/HcTNhhc.jpg"> (Clique aqui para ampliar)</a>
 
 ## Componentes
