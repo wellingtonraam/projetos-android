@@ -10,7 +10,7 @@ Aplicativo com a interface da Netflix.
 
 Tecnologias utilizadas: Guidelines para alinhamento responsivo da interface, sendo assim independente do dispostivo a interface do aplicativo se mantem alinhada.
 
-![alt text](https://i.imgur.com/bTq5YPG.jpg)
+![alt text](https://i.imgur.com/BEnoZwV.jpg)
 
 <a href="https://i.imgur.com/CVHyWhv.jpg"> (Clique aqui para ampliar)</a>
 
@@ -20,7 +20,7 @@ Interface para um aplicativo de noticias
 
 Tecnologias utilizadas: ConstraintLayout, Button, ImageView, EditText.
 
-![alt text](https://i.imgur.com/cSzU1q7.png)
+![alt text](https://i.imgur.com/DZDyuGj.png)
 
 <a href="https://i.imgur.com/7rlek7t.png"> (Clique aqui para ampliar)</a>
 
@@ -31,7 +31,7 @@ Aplicativo do popular jogo conhecido como "Pedra, Papel, Tesoura!" ou "Jokempô"
 
 Tecnologias utilizadas: ConstraintLayout, Bordas em xml, ImageView, TextView.
 
-![alt text](https://i.imgur.com/KjGhiWl.png)
+![alt text](https://i.imgur.com/dquIzN5.png)
 
 <a href="https://i.imgur.com/klbuKPO.png"> (Clique aqui para ampliar)</a>
  
@@ -40,7 +40,7 @@ Aplicativo com o objetivo de calcular qual tipo de abastecimento é mais economi
 
 Tecnologias utilizadas: ConstraintLayout, Button, ImageView, EditText.
 
-![alt text](https://i.imgur.com/vFRc7PI.png)
+![alt text](https://i.imgur.com/qZt5PjQ.png)
 
 <a href="https://i.imgur.com/HcTNhhc.jpg"> (Clique aqui para ampliar)</a>
 
