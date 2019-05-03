@@ -54,6 +54,6 @@ RecyclerView é uma “evolução” da ListView e da GridView, componentes pres
 
 ### AppCardView 
 
-Um CardView é um ViewGroup, com ele podemos de maneira fácil  mostrar informações dentro de cartões que tenham uma aparência consistente em toda a plataforma .
+Um CardView é um ViewGroup, com ele podemos de maneira fácil  mostrar informações dentro de cartões que tenham uma aparência consistente em toda a plataforma.
 
 ![alt text](https://i.imgur.com/zwdDBds.gif)
