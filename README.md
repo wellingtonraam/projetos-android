@@ -48,7 +48,7 @@ Tecnologias utilizadas: ConstraintLayout, Button, ImageView, EditText.
 
 ### AppRecyclerView 
 
-RecyclerView é uma “evolução” da ListView e da GridView, componentes presentes desde da primeira versão do Android para se fazer listas e grades de conteúdo.
+RecyclerView é uma “evolução” da ListView e da GridView, componentes presentes desde da primeira versão do Android para se fazer listas e grades de conteúdo
 
 ![alt text](https://i.imgur.com/GSq94Ec.gif)
 
