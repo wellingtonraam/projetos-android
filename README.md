@@ -29,7 +29,7 @@ Tecnologias utilizadas: ConstraintLayout, Button, ImageView, EditText.
 ### App Pedra, Papel, Tesoura! (AppPedraPapelTesoura)
 Aplicativo do popular jogo conhecido como "Pedra, Papel, Tesoura!" ou "Jokempô".
 
-Tecnologias utilizadas: ConstraintLayout, Bordas em xml, ImageView, TextView
+Tecnologias utilizadas: ConstraintLayout, Bordas em xml, ImageView, TextView.
 
 ![alt text](https://i.imgur.com/dquIzN5.png)
 
