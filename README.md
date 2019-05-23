@@ -15,7 +15,7 @@ Tecnologias utilizadas: Guidelines para alinhamento responsivo da interface, sen
 <a href="https://i.imgur.com/CVHyWhv.jpg"> (Clique aqui para ampliar)</a>
 
 ### App de Notícias (AppNoticias)
-Interface para um aplicativo de noticias
+Interface para um aplicativo de noticias.
 
 
 Tecnologias utilizadas: ConstraintLayout, Button, ImageView, EditText.
@@ -54,6 +54,6 @@ RecyclerView é uma “evolução” da ListView e da GridView, componentes pres
 
 ### AppCardView 
 
-Um CardView é um ViewGroup, com ele podemos de maneira fácil  mostrar informações dentro de cartões que tenham uma aparência consistente em toda a plataforma.
+Um CardView é um ViewGroup, com ele podemos de maneira fácil  mostrar informações dentro de cartões que tenham uma aparência consistente em toda a plataforma
 
 ![alt text](https://i.imgur.com/zwdDBds.gif)
