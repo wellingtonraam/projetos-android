@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cardviewPostagens"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="16dp"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/thumbnail"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:padding="16dp"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/img1" />
+
+        <TextView
+            android:id="@+id/titulo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginRight="16dp"
+            android:text="Olhando o horizonte"
+            android:textColor="#F0222222"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:fontFamily="casual" />
+
+        <TextView
+            android:id="@+id/tvConteudo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="4dp"
+            android:text=" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et metus convallis, interdum erat ut, iaculis enim. Maecenas dolor justo, luctus eu ligula sed, tristique fringilla mi. Suspendisse consequat, nulla quis placerat porta, felis turpis laoreet leo, sit amet vehicula mi elit sit amet lectus. Nunc at urna egestas, porttitor lorem ut, placerat eros. Mauris risus nisi, ultricies sit amet nisi nec, mollis eleifend ipsum. Suspendisse tellus diam, scelerisque sed condimentum volutpat, aliquet in urna. Phasellus vehicula pulvinar turpis sed semper. Sed venenatis nibh a dui finibus posuere ac ac tellus." />
+
+
+
+
+    </LinearLayout>
+</android.support.v7.widget.CardView>
