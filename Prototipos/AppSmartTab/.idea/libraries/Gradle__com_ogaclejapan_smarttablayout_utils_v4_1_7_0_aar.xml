@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ogaclejapan.smarttablayout:utils-v4:1.7.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2f3d6b950805d925655abdb6bf71bd34/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2f3d6b950805d925655abdb6bf71bd34/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ogaclejapan.smarttablayout/utils-v4/1.7.0/f0a87bc1e02be5d90164c0399dd3cfa3ed33cfe8/utils-v4-1.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
