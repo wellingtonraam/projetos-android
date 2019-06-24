@@ -1,4 +1,4 @@
-package com.example.appsharedpref;
+﻿package com.example.appsharedpref;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -10,6 +10,7 @@ import android.widget.Button;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
+
 
     Button btnSalvar;
     TextInputEditText inputNome;
