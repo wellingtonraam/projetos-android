@@ -26,7 +26,7 @@ Tecnologias utilizadas: ConstraintLayout e SQLite.
 ### App Aprenda Inglês! (AppAprendaIngles)
 Aplicativo simples que diz em voz alta o nome do animal (ou número) clicado em inglês.
 
-Tecnologias utilizadas: ConstraintLayout, Fragments,<a href="https://github.com/ogaclejapan/SmartTabLayout/"> API SmartTabLayout </a>  
+Tecnologias utilizadas: ConstraintLayout, Fragments, MediaPlayer e a<a href="https://github.com/ogaclejapan/SmartTabLayout/"> API SmartTabLayout </a>  
 
 ![alt text](https://imgur.com/v9RNZLJ.gif)
 
