@@ -16,7 +16,7 @@ Tecnologias utilizadas: ConstraintLayout, Bordas em xml, ImageView, TextView.
 ### App Minhas Tarefas (MinhasTarefas)
 Aplicativo onde você pode criar uma lista de tarefas. Inclui as funcionalidades de Salvar, Atualizar e Apagar. As tarefas são guardadas num banco de dados SQLite.
 
-Tecnologias utilizadas: ConstraintLayout e SQLite.
+Tecnologias utilizadas: ConstraintLayout, RecyclerView e SQLite.
 
 ![alt text](https://i.imgur.com/o1tqgIj.gif)
 
