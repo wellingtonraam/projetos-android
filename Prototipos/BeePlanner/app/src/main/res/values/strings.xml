@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BeePlanner</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+</resources>
