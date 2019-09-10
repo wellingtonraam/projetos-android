@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SOS Ibama.iml" filepath="$PROJECT_DIR$/SOS Ibama.iml" group="SOS Ibama" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="SOS Ibama/app" />
+    </modules>
+  </component>
+</project>

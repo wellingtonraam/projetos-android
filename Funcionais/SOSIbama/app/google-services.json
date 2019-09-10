@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "372222404102",
+    "firebase_url": "https://sosibama.firebaseio.com",
+    "project_id": "sosibama",
+    "storage_bucket": "sosibama.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372222404102:android:7a7586dce18a554e924587",
+        "android_client_info": {
+          "package_name": "com.treestudios.sosibama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372222404102-k1r3gvvc6jqmlt3eppe98mardf6v5o7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.treestudios.sosibama",
+            "certificate_hash": "9e21a98520762c40c80d663e280ff08dc3cd8621"
+          }
+        },
+        {
+          "client_id": "372222404102-mjes92f89cbjnbqjg7haotvpt89040qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3tqVXs8yHZk-ssozkAHH5XlRsgZyyPCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372222404102-mjes92f89cbjnbqjg7haotvpt89040qe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
