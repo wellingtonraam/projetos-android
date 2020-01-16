@@ -6,9 +6,9 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="16"
-8-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml
+8-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml
+9-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml
 10
 11    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
 12    <!-- <uses-sdk android:minSdkVersion="14"/> -->
@@ -29,222 +29,223 @@
 17-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\1b47844ac0101e10ab464814b6612342\firebase-iid-19.0.0\AndroidManifest.xml:26:22-79
 18
 19    <application
-19-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:5:5-32:19
+19-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:5:5-32:19
 20        android:allowBackup="true"
-20-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:6:9-35
+20-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:6:9-35
 21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 21-->[androidx.core:core:1.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\d6ea6e20253710e999ad4fa95e10b0d8\core-1.1.0\AndroidManifest.xml:24:18-86
 22        android:debuggable="true"
 23        android:icon="@drawable/logo"
-23-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:7:9-38
+23-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:7:9-38
 24        android:label="@string/app_name"
-24-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:8:9-41
+24-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:8:9-41
 25        android:roundIcon="@mipmap/ic_launcher_round"
-25-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:9:9-54
+25-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:9:9-54
 26        android:screenOrientation="portrait"
-26-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:12:9-45
+26-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:12:9-45
 27        android:supportsRtl="true"
-27-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:10:9-35
-28        android:theme="@style/AppTheme" >
-28-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:11:9-40
-29        <activity
-29-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:13:9-15:61
-30            android:name="com.treestudios.sosibama.DenunciaActivity"
-30-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:13:19-51
-31            android:screenOrientation="portrait"
-31-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:15:13-49
-32            android:theme="@style/DenunciaTheme" />
-32-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:14:13-49
-33        <activity
-33-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:16:9-17:51
-34            android:name="com.treestudios.sosibama.PrincipalActivity"
-34-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:16:19-52
-35            android:screenOrientation="portrait" />
-35-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:17:13-49
-36        <activity
-36-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:18:9-19:51
-37            android:name="com.treestudios.sosibama.SimpleActivity"
-37-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:18:19-49
-38            android:screenOrientation="portrait" />
-38-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:19:13-49
-39        <activity
-39-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:20:9-21:51
-40            android:name="com.treestudios.sosibama.LoginActivity"
-40-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:20:19-48
-41            android:screenOrientation="portrait" />
-41-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:21:13-49
-42        <activity
-42-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:22:9-23:51
-43            android:name="com.treestudios.sosibama.CadastrarActivity"
-43-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:22:19-52
-44            android:screenOrientation="portrait" />
-44-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:23:13-49
-45        <activity
-45-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:24:9-31:20
-46            android:name="com.treestudios.sosibama.MainActivity"
-46-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:24:19-47
-47            android:screenOrientation="portrait" >
-47-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:25:13-49
-48            <intent-filter>
-48-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:26:13-30:29
-49                <action android:name="android.intent.action.MAIN" />
-49-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:27:17-69
-49-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:27:25-66
-50
-51                <category android:name="android.intent.category.LAUNCHER" />
-51-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:29:17-77
-51-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:29:27-74
-52            </intent-filter>
-53        </activity>
-54
-55        <provider
-55-->[com.github.prolificinteractive:material-calendarview:2.0.1] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\92d9bfde415ab2c0a0b051f47057438a\jetified-material-calendarview-2.0.1\AndroidManifest.xml:12:9-16:40
-56            android:name="com.prolificinteractive.materialcalendarview.MaterialCalendarViewInitProvider"
-56-->[com.github.prolificinteractive:material-calendarview:2.0.1] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\92d9bfde415ab2c0a0b051f47057438a\jetified-material-calendarview-2.0.1\AndroidManifest.xml:13:13-105
-57            android:authorities="com.treestudios.sosibama.materialcalendarviewinitprovider"
-57-->[com.github.prolificinteractive:material-calendarview:2.0.1] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\92d9bfde415ab2c0a0b051f47057438a\jetified-material-calendarview-2.0.1\AndroidManifest.xml:14:13-84
-58            android:enabled="true"
-58-->[com.github.prolificinteractive:material-calendarview:2.0.1] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\92d9bfde415ab2c0a0b051f47057438a\jetified-material-calendarview-2.0.1\AndroidManifest.xml:15:13-35
-59            android:exported="false" />
-59-->[com.github.prolificinteractive:material-calendarview:2.0.1] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\92d9bfde415ab2c0a0b051f47057438a\jetified-material-calendarview-2.0.1\AndroidManifest.xml:16:13-37
-60
-61        <activity
-61-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\56be2bb86d5ed64865c8015bd45af333\jetified-firebase-auth-17.0.0\AndroidManifest.xml:24:9-31:50
-62            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
-62-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\56be2bb86d5ed64865c8015bd45af333\jetified-firebase-auth-17.0.0\AndroidManifest.xml:25:13-85
-63            android:excludeFromRecents="true"
-63-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\56be2bb86d5ed64865c8015bd45af333\jetified-firebase-auth-17.0.0\AndroidManifest.xml:26:13-46
-64            android:exported="true"
-64-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\56be2bb86d5ed64865c8015bd45af333\jetified-firebase-auth-17.0.0\AndroidManifest.xml:27:13-36
-65            android:launchMode="singleTask"
-65-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\56be2bb86d5ed64865c8015bd45af333\jetified-firebase-auth-17.0.0\AndroidManifest.xml:28:13-44
-66            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
-66-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\56be2bb86d5ed64865c8015bd45af333\jetified-firebase-auth-17.0.0\AndroidManifest.xml:29:13-102
-67            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-67-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\56be2bb86d5ed64865c8015bd45af333\jetified-firebase-auth-17.0.0\AndroidManifest.xml:30:13-72
-68
-69        <service
-69-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\56be2bb86d5ed64865c8015bd45af333\jetified-firebase-auth-17.0.0\AndroidManifest.xml:33:9-39:19
-70            android:name="com.google.firebase.components.ComponentDiscoveryService"
-70-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\56be2bb86d5ed64865c8015bd45af333\jetified-firebase-auth-17.0.0\AndroidManifest.xml:34:13-84
-71            android:directBootAware="true"
-71-->[com.google.firebase:firebase-common:19.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\de40be85cf18a7d937d2301114261b4a\firebase-common-19.1.0\AndroidManifest.xml:14:13-43
-72            android:exported="false" >
-72-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\56be2bb86d5ed64865c8015bd45af333\jetified-firebase-auth-17.0.0\AndroidManifest.xml:35:13-37
-73            <meta-data
-73-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\56be2bb86d5ed64865c8015bd45af333\jetified-firebase-auth-17.0.0\AndroidManifest.xml:36:13-38:85
-74                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-74-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\56be2bb86d5ed64865c8015bd45af333\jetified-firebase-auth-17.0.0\AndroidManifest.xml:37:17-109
-75                android:value="com.google.firebase.components.ComponentRegistrar" />
-75-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\56be2bb86d5ed64865c8015bd45af333\jetified-firebase-auth-17.0.0\AndroidManifest.xml:38:17-82
-76            <meta-data
-76-->[com.google.firebase:firebase-database:19.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\af87bd146bb4ff881467b4edefe76695\firebase-database-19.1.0\AndroidManifest.xml:32:13-34:85
-77                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
-77-->[com.google.firebase:firebase-database:19.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\af87bd146bb4ff881467b4edefe76695\firebase-database-19.1.0\AndroidManifest.xml:33:17-109
-78                android:value="com.google.firebase.components.ComponentRegistrar" />
-78-->[com.google.firebase:firebase-database:19.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\af87bd146bb4ff881467b4edefe76695\firebase-database-19.1.0\AndroidManifest.xml:34:17-82
-79            <meta-data
-79-->[com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\541483c74eb30d462d2ae6a1605d83c7\play-services-measurement-api-17.2.0\AndroidManifest.xml:30:13-32:85
-80                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
-80-->[com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\541483c74eb30d462d2ae6a1605d83c7\play-services-measurement-api-17.2.0\AndroidManifest.xml:31:17-139
-81                android:value="com.google.firebase.components.ComponentRegistrar" />
-81-->[com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\541483c74eb30d462d2ae6a1605d83c7\play-services-measurement-api-17.2.0\AndroidManifest.xml:32:17-82
-82            <meta-data
-82-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\1b47844ac0101e10ab464814b6612342\firebase-iid-19.0.0\AndroidManifest.xml:32:13-34:85
-83                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
-83-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\1b47844ac0101e10ab464814b6612342\firebase-iid-19.0.0\AndroidManifest.xml:33:17-96
-84                android:value="com.google.firebase.components.ComponentRegistrar" />
-84-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\1b47844ac0101e10ab464814b6612342\firebase-iid-19.0.0\AndroidManifest.xml:34:17-82
-85        </service>
-86
-87        <receiver
-87-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:29:9-33:20
-88            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-88-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:30:13-85
-89            android:enabled="true"
-89-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:31:13-35
-90            android:exported="false" >
-90-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:32:13-37
-91        </receiver>
-92        <receiver
-92-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:34:9-42:20
-93            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
-93-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:35:13-100
-94            android:enabled="true"
-94-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:36:13-35
-95            android:exported="true"
-95-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:37:13-36
-96            android:permission="android.permission.INSTALL_PACKAGES" >
-96-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:38:13-69
-97            <intent-filter>
-97-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:39:13-41:29
-98                <action android:name="com.android.vending.INSTALL_REFERRER" />
-98-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:40:17-79
-98-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:40:25-76
-99            </intent-filter>
-100        </receiver>
-101
-102        <service
-102-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:44:9-47:40
-103            android:name="com.google.android.gms.measurement.AppMeasurementService"
-103-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:45:13-84
-104            android:enabled="true"
-104-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:46:13-35
-105            android:exported="false" />
-105-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:47:13-37
-106        <service
-106-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:48:9-52:72
-107            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-107-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:49:13-87
-108            android:enabled="true"
-108-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:50:13-35
-109            android:exported="false"
-109-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:51:13-37
-110            android:permission="android.permission.BIND_JOB_SERVICE" />
-110-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:52:13-69
-111
-112        <receiver
-112-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\1b47844ac0101e10ab464814b6612342\firebase-iid-19.0.0\AndroidManifest.xml:37:9-44:20
-113            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
-113-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\1b47844ac0101e10ab464814b6612342\firebase-iid-19.0.0\AndroidManifest.xml:38:13-78
-114            android:exported="true"
-114-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\1b47844ac0101e10ab464814b6612342\firebase-iid-19.0.0\AndroidManifest.xml:39:13-36
-115            android:permission="com.google.android.c2dm.permission.SEND" >
-115-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\1b47844ac0101e10ab464814b6612342\firebase-iid-19.0.0\AndroidManifest.xml:40:13-73
-116            <intent-filter>
-116-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\1b47844ac0101e10ab464814b6612342\firebase-iid-19.0.0\AndroidManifest.xml:41:13-43:29
-117                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-117-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\1b47844ac0101e10ab464814b6612342\firebase-iid-19.0.0\AndroidManifest.xml:42:17-81
-117-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\1b47844ac0101e10ab464814b6612342\firebase-iid-19.0.0\AndroidManifest.xml:42:25-78
-118            </intent-filter>
-119        </receiver>
-120
-121        <activity
-121-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\65251268c201cdfc2c8b844dd18f50f7\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
-122            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-122-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\65251268c201cdfc2c8b844dd18f50f7\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
-123            android:exported="false"
-123-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\65251268c201cdfc2c8b844dd18f50f7\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
-124            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-124-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\65251268c201cdfc2c8b844dd18f50f7\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
-125
-126        <provider
-126-->[com.google.firebase:firebase-common:19.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\de40be85cf18a7d937d2301114261b4a\firebase-common-19.1.0\AndroidManifest.xml:17:9-21:39
-127            android:name="com.google.firebase.provider.FirebaseInitProvider"
-127-->[com.google.firebase:firebase-common:19.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\de40be85cf18a7d937d2301114261b4a\firebase-common-19.1.0\AndroidManifest.xml:18:13-77
-128            android:authorities="com.treestudios.sosibama.firebaseinitprovider"
-128-->[com.google.firebase:firebase-common:19.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\de40be85cf18a7d937d2301114261b4a\firebase-common-19.1.0\AndroidManifest.xml:19:13-72
-129            android:exported="false"
-129-->[com.google.firebase:firebase-common:19.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\de40be85cf18a7d937d2301114261b4a\firebase-common-19.1.0\AndroidManifest.xml:20:13-37
-130            android:initOrder="100" />
-130-->[com.google.firebase:firebase-common:19.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\de40be85cf18a7d937d2301114261b4a\firebase-common-19.1.0\AndroidManifest.xml:21:13-36
-131
-132        <meta-data
-132-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\ab53063ff0aae43b02b62f5a0a6698af\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
-133            android:name="com.google.android.gms.version"
-133-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\ab53063ff0aae43b02b62f5a0a6698af\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
-134            android:value="@integer/google_play_services_version" />
-134-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\ab53063ff0aae43b02b62f5a0a6698af\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
-135    </application>
-136
-137</manifest>
+27-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:10:9-35
+28        android:testOnly="true"
+29        android:theme="@style/AppTheme" >
+29-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:11:9-40
+30        <activity
+30-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:13:9-15:61
+31            android:name="com.treestudios.sosibama.DenunciaActivity"
+31-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:13:19-51
+32            android:screenOrientation="portrait"
+32-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:15:13-49
+33            android:theme="@style/DenunciaTheme" />
+33-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:14:13-49
+34        <activity
+34-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:16:9-17:51
+35            android:name="com.treestudios.sosibama.PrincipalActivity"
+35-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:16:19-52
+36            android:screenOrientation="portrait" />
+36-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:17:13-49
+37        <activity
+37-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:18:9-19:51
+38            android:name="com.treestudios.sosibama.SimpleActivity"
+38-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:18:19-49
+39            android:screenOrientation="portrait" />
+39-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:19:13-49
+40        <activity
+40-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:20:9-21:51
+41            android:name="com.treestudios.sosibama.LoginActivity"
+41-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:20:19-48
+42            android:screenOrientation="portrait" />
+42-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:21:13-49
+43        <activity
+43-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:22:9-23:51
+44            android:name="com.treestudios.sosibama.CadastrarActivity"
+44-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:22:19-52
+45            android:screenOrientation="portrait" />
+45-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:23:13-49
+46        <activity
+46-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:24:9-31:20
+47            android:name="com.treestudios.sosibama.MainActivity"
+47-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:24:19-47
+48            android:screenOrientation="portrait" >
+48-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:25:13-49
+49            <intent-filter>
+49-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:26:13-30:29
+50                <action android:name="android.intent.action.MAIN" />
+50-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:27:17-69
+50-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:27:25-66
+51
+52                <category android:name="android.intent.category.LAUNCHER" />
+52-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:29:17-77
+52-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:29:27-74
+53            </intent-filter>
+54        </activity>
+55
+56        <provider
+56-->[com.github.prolificinteractive:material-calendarview:2.0.1] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\92d9bfde415ab2c0a0b051f47057438a\jetified-material-calendarview-2.0.1\AndroidManifest.xml:12:9-16:40
+57            android:name="com.prolificinteractive.materialcalendarview.MaterialCalendarViewInitProvider"
+57-->[com.github.prolificinteractive:material-calendarview:2.0.1] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\92d9bfde415ab2c0a0b051f47057438a\jetified-material-calendarview-2.0.1\AndroidManifest.xml:13:13-105
+58            android:authorities="com.treestudios.sosibama.materialcalendarviewinitprovider"
+58-->[com.github.prolificinteractive:material-calendarview:2.0.1] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\92d9bfde415ab2c0a0b051f47057438a\jetified-material-calendarview-2.0.1\AndroidManifest.xml:14:13-84
+59            android:enabled="true"
+59-->[com.github.prolificinteractive:material-calendarview:2.0.1] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\92d9bfde415ab2c0a0b051f47057438a\jetified-material-calendarview-2.0.1\AndroidManifest.xml:15:13-35
+60            android:exported="false" />
+60-->[com.github.prolificinteractive:material-calendarview:2.0.1] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\92d9bfde415ab2c0a0b051f47057438a\jetified-material-calendarview-2.0.1\AndroidManifest.xml:16:13-37
+61
+62        <activity
+62-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\56be2bb86d5ed64865c8015bd45af333\jetified-firebase-auth-17.0.0\AndroidManifest.xml:24:9-31:50
+63            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+63-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\56be2bb86d5ed64865c8015bd45af333\jetified-firebase-auth-17.0.0\AndroidManifest.xml:25:13-85
+64            android:excludeFromRecents="true"
+64-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\56be2bb86d5ed64865c8015bd45af333\jetified-firebase-auth-17.0.0\AndroidManifest.xml:26:13-46
+65            android:exported="true"
+65-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\56be2bb86d5ed64865c8015bd45af333\jetified-firebase-auth-17.0.0\AndroidManifest.xml:27:13-36
+66            android:launchMode="singleTask"
+66-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\56be2bb86d5ed64865c8015bd45af333\jetified-firebase-auth-17.0.0\AndroidManifest.xml:28:13-44
+67            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+67-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\56be2bb86d5ed64865c8015bd45af333\jetified-firebase-auth-17.0.0\AndroidManifest.xml:29:13-102
+68            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+68-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\56be2bb86d5ed64865c8015bd45af333\jetified-firebase-auth-17.0.0\AndroidManifest.xml:30:13-72
+69
+70        <service
+70-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\56be2bb86d5ed64865c8015bd45af333\jetified-firebase-auth-17.0.0\AndroidManifest.xml:33:9-39:19
+71            android:name="com.google.firebase.components.ComponentDiscoveryService"
+71-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\56be2bb86d5ed64865c8015bd45af333\jetified-firebase-auth-17.0.0\AndroidManifest.xml:34:13-84
+72            android:directBootAware="true"
+72-->[com.google.firebase:firebase-common:19.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\de40be85cf18a7d937d2301114261b4a\firebase-common-19.1.0\AndroidManifest.xml:14:13-43
+73            android:exported="false" >
+73-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\56be2bb86d5ed64865c8015bd45af333\jetified-firebase-auth-17.0.0\AndroidManifest.xml:35:13-37
+74            <meta-data
+74-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\56be2bb86d5ed64865c8015bd45af333\jetified-firebase-auth-17.0.0\AndroidManifest.xml:36:13-38:85
+75                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+75-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\56be2bb86d5ed64865c8015bd45af333\jetified-firebase-auth-17.0.0\AndroidManifest.xml:37:17-109
+76                android:value="com.google.firebase.components.ComponentRegistrar" />
+76-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\56be2bb86d5ed64865c8015bd45af333\jetified-firebase-auth-17.0.0\AndroidManifest.xml:38:17-82
+77            <meta-data
+77-->[com.google.firebase:firebase-database:19.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\af87bd146bb4ff881467b4edefe76695\firebase-database-19.1.0\AndroidManifest.xml:32:13-34:85
+78                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+78-->[com.google.firebase:firebase-database:19.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\af87bd146bb4ff881467b4edefe76695\firebase-database-19.1.0\AndroidManifest.xml:33:17-109
+79                android:value="com.google.firebase.components.ComponentRegistrar" />
+79-->[com.google.firebase:firebase-database:19.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\af87bd146bb4ff881467b4edefe76695\firebase-database-19.1.0\AndroidManifest.xml:34:17-82
+80            <meta-data
+80-->[com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\541483c74eb30d462d2ae6a1605d83c7\play-services-measurement-api-17.2.0\AndroidManifest.xml:30:13-32:85
+81                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+81-->[com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\541483c74eb30d462d2ae6a1605d83c7\play-services-measurement-api-17.2.0\AndroidManifest.xml:31:17-139
+82                android:value="com.google.firebase.components.ComponentRegistrar" />
+82-->[com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\541483c74eb30d462d2ae6a1605d83c7\play-services-measurement-api-17.2.0\AndroidManifest.xml:32:17-82
+83            <meta-data
+83-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\1b47844ac0101e10ab464814b6612342\firebase-iid-19.0.0\AndroidManifest.xml:32:13-34:85
+84                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+84-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\1b47844ac0101e10ab464814b6612342\firebase-iid-19.0.0\AndroidManifest.xml:33:17-96
+85                android:value="com.google.firebase.components.ComponentRegistrar" />
+85-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\1b47844ac0101e10ab464814b6612342\firebase-iid-19.0.0\AndroidManifest.xml:34:17-82
+86        </service>
+87
+88        <receiver
+88-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:29:9-33:20
+89            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+89-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:30:13-85
+90            android:enabled="true"
+90-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:31:13-35
+91            android:exported="false" >
+91-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:32:13-37
+92        </receiver>
+93        <receiver
+93-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:34:9-42:20
+94            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+94-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:35:13-100
+95            android:enabled="true"
+95-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:36:13-35
+96            android:exported="true"
+96-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:37:13-36
+97            android:permission="android.permission.INSTALL_PACKAGES" >
+97-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:38:13-69
+98            <intent-filter>
+98-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:39:13-41:29
+99                <action android:name="com.android.vending.INSTALL_REFERRER" />
+99-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:40:17-79
+99-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:40:25-76
+100            </intent-filter>
+101        </receiver>
+102
+103        <service
+103-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:44:9-47:40
+104            android:name="com.google.android.gms.measurement.AppMeasurementService"
+104-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:45:13-84
+105            android:enabled="true"
+105-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:46:13-35
+106            android:exported="false" />
+106-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:47:13-37
+107        <service
+107-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:48:9-52:72
+108            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+108-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:49:13-87
+109            android:enabled="true"
+109-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:50:13-35
+110            android:exported="false"
+110-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:51:13-37
+111            android:permission="android.permission.BIND_JOB_SERVICE" />
+111-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\237b1ad383ec8183721cbf355eaba599\play-services-measurement-17.2.0\AndroidManifest.xml:52:13-69
+112
+113        <receiver
+113-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\1b47844ac0101e10ab464814b6612342\firebase-iid-19.0.0\AndroidManifest.xml:37:9-44:20
+114            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+114-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\1b47844ac0101e10ab464814b6612342\firebase-iid-19.0.0\AndroidManifest.xml:38:13-78
+115            android:exported="true"
+115-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\1b47844ac0101e10ab464814b6612342\firebase-iid-19.0.0\AndroidManifest.xml:39:13-36
+116            android:permission="com.google.android.c2dm.permission.SEND" >
+116-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\1b47844ac0101e10ab464814b6612342\firebase-iid-19.0.0\AndroidManifest.xml:40:13-73
+117            <intent-filter>
+117-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\1b47844ac0101e10ab464814b6612342\firebase-iid-19.0.0\AndroidManifest.xml:41:13-43:29
+118                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+118-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\1b47844ac0101e10ab464814b6612342\firebase-iid-19.0.0\AndroidManifest.xml:42:17-81
+118-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\1b47844ac0101e10ab464814b6612342\firebase-iid-19.0.0\AndroidManifest.xml:42:25-78
+119            </intent-filter>
+120        </receiver>
+121
+122        <activity
+122-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\65251268c201cdfc2c8b844dd18f50f7\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+123            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+123-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\65251268c201cdfc2c8b844dd18f50f7\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+124            android:exported="false"
+124-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\65251268c201cdfc2c8b844dd18f50f7\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+125            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+125-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\65251268c201cdfc2c8b844dd18f50f7\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+126
+127        <provider
+127-->[com.google.firebase:firebase-common:19.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\de40be85cf18a7d937d2301114261b4a\firebase-common-19.1.0\AndroidManifest.xml:17:9-21:39
+128            android:name="com.google.firebase.provider.FirebaseInitProvider"
+128-->[com.google.firebase:firebase-common:19.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\de40be85cf18a7d937d2301114261b4a\firebase-common-19.1.0\AndroidManifest.xml:18:13-77
+129            android:authorities="com.treestudios.sosibama.firebaseinitprovider"
+129-->[com.google.firebase:firebase-common:19.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\de40be85cf18a7d937d2301114261b4a\firebase-common-19.1.0\AndroidManifest.xml:19:13-72
+130            android:exported="false"
+130-->[com.google.firebase:firebase-common:19.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\de40be85cf18a7d937d2301114261b4a\firebase-common-19.1.0\AndroidManifest.xml:20:13-37
+131            android:initOrder="100" />
+131-->[com.google.firebase:firebase-common:19.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\de40be85cf18a7d937d2301114261b4a\firebase-common-19.1.0\AndroidManifest.xml:21:13-36
+132
+133        <meta-data
+133-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\ab53063ff0aae43b02b62f5a0a6698af\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+134            android:name="com.google.android.gms.version"
+134-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\ab53063ff0aae43b02b62f5a0a6698af\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+135            android:value="@integer/google_play_services_version" />
+135-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\ab53063ff0aae43b02b62f5a0a6698af\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+136    </application>
+137
+138</manifest>

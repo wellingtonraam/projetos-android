@@ -1,4 +1,4 @@
-#Fri Oct 25 13:39:25 BRT 2019
-base.0=C\:\\Users\\Wellington\\AndroidStudioProjects\\SOSIbama\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+#Thu Nov 07 17:25:36 BRST 2019
+base.0=C\:\\Users\\Wellington\\Documents\\Projetos\\Android\\projetos-android\\Funcionais\\SOSIbama\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

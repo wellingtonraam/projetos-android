@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Wellington\\AndroidStudioProjects\\SOSIbama\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\Wellington\\Documents\\Projetos\\Android\\projetos-android\\Funcionais\\SOSIbama\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Wellington\\.gradle\\caches\\transforms-2\\files-2.1\\43af7e307b70739c2219e4fdb4b5001b\\material-1.0.0\\res\\values\\values.xml",
@@ -99,20 +99,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Wellington\\AndroidStudioProjects\\SOSIbama\\app\\src\\main\\res\\values\\dimens.xml",
+                    "source": "C:\\Users\\Wellington\\Documents\\Projetos\\Android\\projetos-android\\Funcionais\\SOSIbama\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "17",
-                        "endColumns": "41",
-                        "endOffsets": "54"
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "158,57,106",
+                        "endColumns": "45,47,50",
+                        "endOffsets": "199,100,152"
                     },
                     "to": {
-                        "startLines": "409",
-                        "startColumns": "4",
-                        "startOffsets": "24513",
-                        "endColumns": "41",
-                        "endOffsets": "24550"
+                        "startLines": "192,193,194",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "9973,10019,10067",
+                        "endColumns": "45,47,50",
+                        "endOffsets": "10014,10062,10113"
                     }
                 },
                 {
@@ -130,6 +130,23 @@
                         "startOffsets": "14071,29865,29918,29971,30024,161293,161469,161591,161853,162048",
                         "endColumns": "88,52,52,52,52,65,121,60,65,66",
                         "endOffsets": "14155,29913,29966,30019,30072,161354,161586,161647,161914,162110"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Wellington\\Documents\\Projetos\\Android\\projetos-android\\Funcionais\\SOSIbama\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "41",
+                        "endOffsets": "54"
+                    },
+                    "to": {
+                        "startLines": "409",
+                        "startColumns": "4",
+                        "startOffsets": "24513",
+                        "endColumns": "41",
+                        "endOffsets": "24550"
                     }
                 },
                 {
@@ -188,24 +205,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Wellington\\AndroidStudioProjects\\SOSIbama\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "158,57,106",
-                        "endColumns": "45,47,50",
-                        "endOffsets": "199,100,152"
-                    },
-                    "to": {
-                        "startLines": "192,193,194",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "9973,10019,10067",
-                        "endColumns": "45,47,50",
-                        "endOffsets": "10014,10062,10113"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Wellington\\AndroidStudioProjects\\SOSIbama\\app\\build\\generated\\res\\google-services\\release\\values\\values.xml",
+                    "source": "C:\\Users\\Wellington\\Documents\\Projetos\\Android\\projetos-android\\Funcionais\\SOSIbama\\app\\build\\generated\\res\\google-services\\release\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -219,23 +219,6 @@
                         "startOffsets": "41152,41610,41777,41859,41963,42072,42192,44038",
                         "endColumns": "143,102,81,103,108,119,91,68",
                         "endOffsets": "41291,41708,41854,41958,42067,42187,42279,44102"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Wellington\\AndroidStudioProjects\\SOSIbama\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1,4,9,10,6,7,5,2",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "17,193,413,484,325,364,258,65",
-                        "endColumns": "46,63,69,82,37,45,65,70",
-                        "endOffsets": "59,252,478,562,358,405,319,131"
-                    },
-                    "to": {
-                        "startLines": "644,672,678,679,689,695,698,700",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "38254,41713,42284,42354,43152,43992,44160,44297",
-                        "endColumns": "46,63,69,82,37,45,65,70",
-                        "endOffsets": "38296,41772,42349,42432,43185,44033,44221,44363"
                     }
                 },
                 {
@@ -255,25 +238,6 @@
                         "endLines": "15,188,189,190,191,353,354,355,749,2147,2150,2153,3898",
                         "endColumns": "51,60,61,61,63,58,56,53,12,12,12,12,24",
                         "endOffsets": "781,9780,9842,9904,9968,20932,20989,21043,47586,138859,138985,139113,247909"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Wellington\\AndroidStudioProjects\\SOSIbama\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3,15,10,17,19",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "57,540,384,634,718",
-                        "endLines": "8,15,13,17,22",
-                        "endColumns": "12,90,12,80,12",
-                        "endOffsets": "376,626,532,710,902"
-                    },
-                    "to": {
-                        "startLines": "710,716,717,721,2154",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "45087,45406,45496,45646,139118",
-                        "endLines": "715,716,720,721,2157",
-                        "endColumns": "12,89,12,79,12",
-                        "endOffsets": "45401,45491,45641,45721,139299"
                     }
                 },
                 {
@@ -365,6 +329,42 @@
                         "endLines": "3268,3275,3286,4749,4754",
                         "endColumns": "24,24,24,24,24",
                         "endOffsets": "213842,214227,214824,305051,305321"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Wellington\\Documents\\Projetos\\Android\\projetos-android\\Funcionais\\SOSIbama\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,15,10,17,19",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "57,540,384,634,718",
+                        "endLines": "8,15,13,17,22",
+                        "endColumns": "12,90,12,80,12",
+                        "endOffsets": "376,626,532,710,902"
+                    },
+                    "to": {
+                        "startLines": "710,716,717,721,2154",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "45087,45406,45496,45646,139118",
+                        "endLines": "715,716,720,721,2157",
+                        "endColumns": "12,89,12,79,12",
+                        "endOffsets": "45401,45491,45641,45721,139299"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Wellington\\Documents\\Projetos\\Android\\projetos-android\\Funcionais\\SOSIbama\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1,4,9,10,6,7,5,2",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "17,193,413,484,325,364,258,65",
+                        "endColumns": "46,63,69,82,37,45,65,70",
+                        "endOffsets": "59,252,478,562,358,405,319,131"
+                    },
+                    "to": {
+                        "startLines": "644,672,678,679,689,695,698,700",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "38254,41713,42284,42354,43152,43992,44160,44297",
+                        "endColumns": "46,63,69,82,37,45,65,70",
+                        "endOffsets": "38296,41772,42349,42432,43185,44033,44221,44363"
                     }
                 },
                 {

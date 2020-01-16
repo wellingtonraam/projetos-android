@@ -6,9 +6,9 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="16"
-8-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml
+8-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml
+9-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml
 10
 11    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
 12    <!-- <uses-sdk android:minSdkVersion="14"/> -->
@@ -29,70 +29,70 @@
 17-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\1b47844ac0101e10ab464814b6612342\firebase-iid-19.0.0\AndroidManifest.xml:26:22-79
 18
 19    <application
-19-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:5:5-32:19
+19-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:5:5-32:19
 20        android:allowBackup="true"
-20-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:6:9-35
+20-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:6:9-35
 21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 21-->[androidx.core:core:1.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\d6ea6e20253710e999ad4fa95e10b0d8\core-1.1.0\AndroidManifest.xml:24:18-86
 22        android:icon="@drawable/logo"
-22-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:7:9-38
+22-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:7:9-38
 23        android:label="@string/app_name"
-23-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:8:9-41
+23-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:8:9-41
 24        android:roundIcon="@mipmap/ic_launcher_round"
-24-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:9:9-54
+24-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:9:9-54
 25        android:screenOrientation="portrait"
-25-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:12:9-45
+25-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:12:9-45
 26        android:supportsRtl="true"
-26-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:10:9-35
+26-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:10:9-35
 27        android:theme="@style/AppTheme" >
-27-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:11:9-40
+27-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:11:9-40
 28        <activity
-28-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:13:9-15:61
+28-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:13:9-15:61
 29            android:name="com.treestudios.sosibama.DenunciaActivity"
-29-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:13:19-51
+29-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:13:19-51
 30            android:screenOrientation="portrait"
-30-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:15:13-49
+30-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:15:13-49
 31            android:theme="@style/DenunciaTheme" />
-31-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:14:13-49
+31-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:14:13-49
 32        <activity
-32-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:16:9-17:51
+32-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:16:9-17:51
 33            android:name="com.treestudios.sosibama.PrincipalActivity"
-33-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:16:19-52
+33-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:16:19-52
 34            android:screenOrientation="portrait" />
-34-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:17:13-49
+34-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:17:13-49
 35        <activity
-35-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:18:9-19:51
+35-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:18:9-19:51
 36            android:name="com.treestudios.sosibama.SimpleActivity"
-36-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:18:19-49
+36-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:18:19-49
 37            android:screenOrientation="portrait" />
-37-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:19:13-49
+37-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:19:13-49
 38        <activity
-38-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:20:9-21:51
+38-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:20:9-21:51
 39            android:name="com.treestudios.sosibama.LoginActivity"
-39-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:20:19-48
+39-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:20:19-48
 40            android:screenOrientation="portrait" />
-40-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:21:13-49
+40-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:21:13-49
 41        <activity
-41-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:22:9-23:51
+41-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:22:9-23:51
 42            android:name="com.treestudios.sosibama.CadastrarActivity"
-42-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:22:19-52
+42-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:22:19-52
 43            android:screenOrientation="portrait" />
-43-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:23:13-49
+43-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:23:13-49
 44        <activity
-44-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:24:9-31:20
+44-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:24:9-31:20
 45            android:name="com.treestudios.sosibama.MainActivity"
-45-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:24:19-47
+45-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:24:19-47
 46            android:screenOrientation="portrait" >
-46-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:25:13-49
+46-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:25:13-49
 47            <intent-filter>
-47-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:26:13-30:29
+47-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:26:13-30:29
 48                <action android:name="android.intent.action.MAIN" />
-48-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:27:17-69
-48-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:27:25-66
+48-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:27:17-69
+48-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:27:25-66
 49
 50                <category android:name="android.intent.category.LAUNCHER" />
-50-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:29:17-77
-50-->C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:29:27-74
+50-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:29:17-77
+50-->C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:29:27-74
 51            </intent-filter>
 52        </activity>
 53

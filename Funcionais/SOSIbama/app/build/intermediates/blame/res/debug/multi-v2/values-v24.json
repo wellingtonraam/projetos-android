@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Wellington\\AndroidStudioProjects\\SOSIbama\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "C:\\Users\\Wellington\\Documents\\Projetos\\Android\\projetos-android\\Funcionais\\SOSIbama\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Wellington\\.gradle\\caches\\transforms-2\\files-2.1\\36f5f80f6c642933fa6f7573346646ac\\media-1.0.0\\res\\values-v24\\values-v24.xml",

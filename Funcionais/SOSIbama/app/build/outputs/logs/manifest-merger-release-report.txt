@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:2:1-34:12
+ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:2:1-34:12
 MERGED from [androidx.navigation:navigation-ui:2.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\27a9afd7ae7b270851a7ed49ad2e7117\navigation-ui-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\43af7e307b70739c2219e4fdb4b5001b\material-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.heinrichreimersoftware:material-intro:2.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\ab5768fcbe79bbddd4b9c777f65e82ef\material-intro-2.0.0\AndroidManifest.xml:25:1-34:12
@@ -69,25 +69,25 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Wellington\.
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\787ee4c7cced0de8e39b1a92ed4bf0cc\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.jakewharton.threetenabp:threetenabp:1.1.1] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\1d722b766f4294a797a1634daf7017cb\threetenabp-1.1.1\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\39c7c1d8f55111a098754ef16e040367\firebase-database-collection-17.0.0\AndroidManifest.xml:2:1-7:12
-INJECTED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:2:1-34:12
 	package
-		ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:3:5-39
-		INJECTED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:2:1-34:12
-		INJECTED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:2:1-34:12
-		INJECTED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:5:5-32:19
+ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:5:5-32:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\43af7e307b70739c2219e4fdb4b5001b\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\43af7e307b70739c2219e4fdb4b5001b\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.github.prolificinteractive:material-calendarview:2.0.1] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\92d9bfde415ab2c0a0b051f47057438a\jetified-material-calendarview-2.0.1\AndroidManifest.xml:11:5-17:19
@@ -139,73 +139,73 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\We
 MERGED from [com.jakewharton.threetenabp:threetenabp:1.1.1] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\1d722b766f4294a797a1634daf7017cb\threetenabp-1.1.1\AndroidManifest.xml:7:5-20
 MERGED from [com.jakewharton.threetenabp:threetenabp:1.1.1] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\1d722b766f4294a797a1634daf7017cb\threetenabp-1.1.1\AndroidManifest.xml:7:5-20
 	android:screenOrientation
-		ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:12:9-45
+		ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:12:9-45
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\d6ea6e20253710e999ad4fa95e10b0d8\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:7:9-38
+		ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:7:9-38
 	android:allowBackup
-		ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.treestudios.sosibama.DenunciaActivity
-ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:13:9-15:61
+ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:13:9-15:61
 	android:screenOrientation
-		ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:15:13-49
+		ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:15:13-49
 	android:theme
-		ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:14:13-49
+		ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:14:13-49
 	android:name
-		ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:13:19-51
+		ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:13:19-51
 activity#com.treestudios.sosibama.PrincipalActivity
-ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:16:9-17:51
+ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:16:9-17:51
 	android:screenOrientation
-		ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:17:13-49
+		ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:17:13-49
 	android:name
-		ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:16:19-52
+		ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:16:19-52
 activity#com.treestudios.sosibama.SimpleActivity
-ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:18:9-19:51
+ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:18:9-19:51
 	android:screenOrientation
-		ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:19:13-49
+		ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:19:13-49
 	android:name
-		ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:18:19-49
+		ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:18:19-49
 activity#com.treestudios.sosibama.LoginActivity
-ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:20:9-21:51
+ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:20:9-21:51
 	android:screenOrientation
-		ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:21:13-49
+		ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:21:13-49
 	android:name
-		ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:20:19-48
+		ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:20:19-48
 activity#com.treestudios.sosibama.CadastrarActivity
-ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:22:9-23:51
+ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:22:9-23:51
 	android:screenOrientation
-		ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:23:13-49
+		ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:23:13-49
 	android:name
-		ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:22:19-52
+		ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:22:19-52
 activity#com.treestudios.sosibama.MainActivity
-ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:24:9-31:20
+ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:24:9-31:20
 	android:screenOrientation
-		ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:25:13-49
+		ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:25:13-49
 	android:name
-		ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:24:19-47
+		ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:24:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:26:13-30:29
+ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:27:17-69
+ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:27:17-69
 	android:name
-		ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:27:25-66
+		ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:27:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:29:17-77
+ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:29:17-77
 	android:name
-		ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml:29:27-74
+		ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml:29:27-74
 uses-sdk
-INJECTED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml
 MERGED from [androidx.navigation:navigation-ui:2.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\27a9afd7ae7b270851a7ed49ad2e7117\navigation-ui-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-ui:2.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\27a9afd7ae7b270851a7ed49ad2e7117\navigation-ui-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\43af7e307b70739c2219e4fdb4b5001b\material-1.0.0\AndroidManifest.xml:20:5-44
@@ -336,16 +336,16 @@ MERGED from [com.jakewharton.threetenabp:threetenabp:1.1.1] C:\Users\Wellington\
 MERGED from [com.jakewharton.threetenabp:threetenabp:1.1.1] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\1d722b766f4294a797a1634daf7017cb\threetenabp-1.1.1\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\39c7c1d8f55111a098754ef16e040367\firebase-database-collection-17.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\39c7c1d8f55111a098754ef16e040367\firebase-database-collection-17.0.0\AndroidManifest.xml:5:5-44
-INJECTED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Wellington\AndroidStudioProjects\SOSIbama\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Wellington\Documents\Projetos\Android\projetos-android\Funcionais\SOSIbama\app\src\main\AndroidManifest.xml
 provider#com.prolificinteractive.materialcalendarview.MaterialCalendarViewInitProvider
 ADDED from [com.github.prolificinteractive:material-calendarview:2.0.1] C:\Users\Wellington\.gradle\caches\transforms-2\files-2.1\92d9bfde415ab2c0a0b051f47057438a\jetified-material-calendarview-2.0.1\AndroidManifest.xml:12:9-16:40
 	android:enabled

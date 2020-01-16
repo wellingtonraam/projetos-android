@@ -4,6 +4,7 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -109,6 +110,12 @@ public class CadastrarActivity extends AppCompatActivity {
         finish();
     }
 
+    public void abrirTermosDeUso(View view){
+        String url = "https://www.evernote.com/l/Ab7fJskT5QFNy6jDua9UcNK928Q0B7kJKmM/";
+        Intent i = new Intent(Intent.ACTION_VIEW);
+        i.setData(Uri.parse(url));
+        startActivity(i);
+    }
 }
 
 
