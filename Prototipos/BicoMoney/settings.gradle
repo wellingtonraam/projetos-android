@@ -1,0 +1,2 @@
+rootProject.name='BicoMoney'
+include ':app'
