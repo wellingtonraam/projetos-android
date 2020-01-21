@@ -14,8 +14,6 @@ public class MainActivity extends AppCompatActivity {
     private EditText userInput;
     private TextView textView;
     private Button button;
-    private int numTimesClicked = 0;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -23,21 +21,16 @@ public class MainActivity extends AppCompatActivity {
         userInput = findViewById(R.id.editText);
         textView = findViewById(R.id.textView);
         button = findViewById(R.id.button);
-
         textView.setText("");
         textView.setMovementMethod(new ScrollingMovementMethod());
 
         View.OnClickListener onClickListener = new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                numTimesClicked += 1;
-                String result = "The button got tapped " + numTimesClicked
-                        + "time";
-                if (numTimesClicked != 1){
-                    result += "s";
-                }
+                String result = userInput.getText().toString();
                 result += "/n";
                 textView.append(result);
+                userInput.setText("");
 
             }
         };
