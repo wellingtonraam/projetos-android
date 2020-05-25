@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Central Unica de Denuncias do Ibama"
