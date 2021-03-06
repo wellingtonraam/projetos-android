@@ -4,6 +4,16 @@ Repositório com projetos desenvolvidos para plataforma Android.
 
 ## Funcionais
 
+### Bin2Dec 
+A simple and robust binary to decimal converter!
+
+Get it on Google Play: https://play.google.com/store/apps/details?id=com.treestudios.binarytodecimal
+
+![alt text](https://i.imgur.com/Z3w7sfa.png)
+
+<a href="https://i.imgur.com/Z3w7sfa.png"> (Clique aqui para ampliar)</a>
+
+
 ### App Pedra, Papel, Tesoura! (AppPedraPapelTesoura)
 Aplicativo do popular jogo conhecido como "Pedra, Papel, Tesoura!" ou "Jokempô".
 
