@@ -20,7 +20,7 @@ Tecnologias utilizadas: Firebase Auth, Realtime Database,<a href="https://github
 
 ![alt text](https://i.imgur.com/EuPe9jC.png)
 
-<a href="(https://i.imgur.com/EuPe9jC.png)"> (Clique aqui para ampliar)</a>
+<a href="https://i.imgur.com/EuPe9jC.png"> (Clique aqui para ampliar)</a>
 
 ### App Pedra, Papel, Tesoura! (AppPedraPapelTesoura)
 Aplicativo do popular jogo conhecido como "Pedra, Papel, Tesoura!" ou "Jokempô".
