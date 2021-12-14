@@ -17,9 +17,9 @@ Get it on Google Play: https://play.google.com/store/apps/details?id=com.treestu
 Aplicativo desenvolvido em 2018 para uma disciplina no curso de Ciência da Computação. A ideia é o registro de denuncias feitas por usuarios separados por data de publicação.
 Tecnologias utilizadas: Firebase Auth, Realtime Database,<a href="https://github.com/heinrichreimer/material-intro/"> API Material Intro</a>, Fragments, Constraint Layout e etc.
 
-![alt text](https://imgur.com/a/0sSkI25)
+![alt text](https://i.imgur.com/EuPe9jC.png)
 
-<a href="(https://imgur.com/a/0sSkI25"> (Clique aqui para ampliar)</a>
+<a href="(https://i.imgur.com/EuPe9jC.png)"> (Clique aqui para ampliar)</a>
 
 ### App Pedra, Papel, Tesoura! (AppPedraPapelTesoura)
 Aplicativo do popular jogo conhecido como "Pedra, Papel, Tesoura!" ou "Jokempô".
