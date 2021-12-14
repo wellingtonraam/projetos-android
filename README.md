@@ -15,6 +15,7 @@ Get it on Google Play: https://play.google.com/store/apps/details?id=com.treestu
 
 ### SOS Ibama
 Aplicativo desenvolvido em 2018 para uma disciplina no curso de Ciência da Computação. A ideia é o registro de denuncias feitas por usuarios separados por data de publicação.
+
 Tecnologias utilizadas: Firebase Auth, Realtime Database,<a href="https://github.com/heinrichreimer/material-intro/"> API Material Intro</a>, Fragments, Constraint Layout e etc.
 
 ![alt text](https://i.imgur.com/EuPe9jC.png)
